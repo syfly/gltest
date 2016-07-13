@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="app_name">gltest</string>
+	<string name="gl2jni_activity">GL2JNI</string>
+</resources>
